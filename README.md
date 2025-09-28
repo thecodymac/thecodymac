@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thecodymac
-- 👀 I’m interested in Front-End Developement 
+- 👀 I’m interested in Front-End Developement and writing music
 - 🌱 I’m currently learning html/css/java/sql in my project here on github
-- 💞️ I’m looking to collaborate on Designing Site
+- 💞️ I’m looking to collaborate on Designing Site and Music
 - 📫 How to reach me github
 
 <!---
